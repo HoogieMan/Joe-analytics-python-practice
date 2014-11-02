@@ -1,0 +1,8 @@
+def montyhall(iterations):
+    doorlist = [1,2,3]
+    print(doorlist)
+    cpick1 = randint(1,3)
+    doorlist.remove(cpick1)
+
+    carloc = randint(1,3)
+    ##hostreveal = 
